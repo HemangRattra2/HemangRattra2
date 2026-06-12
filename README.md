@@ -10,4 +10,3 @@ B.Tech Computer Science Student<br>Passionate about Web Development<br>Building 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=HemangRattra2&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=HemangRattra2&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HemangRattra2&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
